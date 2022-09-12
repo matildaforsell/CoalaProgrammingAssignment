@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51c2242e-5ce1-4d8d-9b1c-ff18f83b86c7": {
+      "ProjectGuid": "51c2242e-5ce1-4d8d-9b1c-ff18f83b86c7",
+      "DisplayName": "EventAPI",
+      "ColorIndex": 0
+    },
+    "e40cb616-feee-41c5-bcca-aa6b4fdf9133": {
+      "ProjectGuid": "e40cb616-feee-41c5-bcca-aa6b4fdf9133",
+      "DisplayName": "SuperHeroAPI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
